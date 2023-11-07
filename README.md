@@ -1,6 +1,6 @@
-# Accountancy Service
+# Backend Template REST-API
 
-A REST API Accountancy Service in pure go
+A REST API using Go-Fiber
 
 ## System Spesification
 - Programming Language Version : Go 1.21.0
